@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\8. UserChoice\obj\Debug\_8.UserChoice.exe
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\8. UserChoice\obj\Debug\_8.UserChoice.pdb
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\8. UserChoice\bin\Debug\_8.UserChoice.exe
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\8. UserChoice\bin\Debug\_8.UserChoice.pdb
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\8. UserChoice\obj\Debug\08. UserChoice.csprojResolveAssemblyReference.cache

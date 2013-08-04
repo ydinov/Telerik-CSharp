@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\6. Loops\6. Loops\09-10. NthCatalanNumber\bin\Debug\_09_10.NthCatalanNumber.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\09-10. NthCatalanNumber\bin\Debug\_09_10.NthCatalanNumber.pdb
+D:\My Documents\Telerik\6. Loops\6. Loops\09-10. NthCatalanNumber\obj\Debug\09-10. NthCatalanNumber.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\6. Loops\6. Loops\09-10. NthCatalanNumber\obj\Debug\_09_10.NthCatalanNumber.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\09-10. NthCatalanNumber\obj\Debug\_09_10.NthCatalanNumber.pdb

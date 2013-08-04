@@ -1,0 +1,8 @@
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\1. Declare5Variables\bin\Debug\_1.Declare5Variables.exe.config
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\1. Declare5Variables\obj\Debug\_1.Declare5Variables.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\1. Declare5Variables\obj\Debug\_1.Declare5Variables.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\1. Declare5Variables\bin\Debug\_1.Declare5Variables.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\1. Declare5Variables\bin\Debug\_1.Declare5Variables.pdb
+D:\My Documents\Telerik\C Sharp - Part 1\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\1. Declare5Variables\bin\Debug\_1.Declare5Variables.exe.config
+D:\My Documents\Telerik\C Sharp - Part 1\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\1. Declare5Variables\obj\Debug\_1.Declare5Variables.exe
+D:\My Documents\Telerik\C Sharp - Part 1\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\1. Declare5Variables\obj\Debug\_1.Declare5Variables.pdb

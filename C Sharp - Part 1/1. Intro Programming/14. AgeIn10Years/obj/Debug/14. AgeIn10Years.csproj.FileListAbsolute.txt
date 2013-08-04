@@ -1,0 +1,12 @@
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\ConsoleApplication1\obj\Debug\14. AgeIn10Years.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\14. AgeIn10Years\bin\Debug\ConsoleApplication1.exe.config
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\14. AgeIn10Years\obj\Debug\ConsoleApplication1.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\14. AgeIn10Years\obj\Debug\ConsoleApplication1.pdb
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\14. AgeIn10Years\obj\Debug\14. AgeIn10Years.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\14. AgeIn10Years\bin\Debug\ConsoleApplication1.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\14. AgeIn10Years\bin\Debug\ConsoleApplication1.pdb

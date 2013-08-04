@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\9. InCircleOutRectangle\obj\Debug\_9.InCircleOutRectangle.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\9. InCircleOutRectangle\obj\Debug\_9.InCircleOutRectangle.pdb
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\9. InCircleOutRectangle\bin\Debug\_9.InCircleOutRectangle.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\9. InCircleOutRectangle\bin\Debug\_9.InCircleOutRectangle.pdb
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\9. InCircleOutRectangle\obj\Debug\09. InCircleOutRectangle.csprojResolveAssemblyReference.cache

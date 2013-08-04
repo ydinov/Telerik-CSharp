@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\6. Loops\6. Loops\12. PrintMatrix\bin\Debug\_12.PrintMatrix.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\12. PrintMatrix\bin\Debug\_12.PrintMatrix.pdb
+D:\My Documents\Telerik\6. Loops\6. Loops\12. PrintMatrix\obj\Debug\12. PrintMatrix.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\6. Loops\6. Loops\12. PrintMatrix\obj\Debug\_12.PrintMatrix.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\12. PrintMatrix\obj\Debug\_12.PrintMatrix.pdb

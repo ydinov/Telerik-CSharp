@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\11. ExchangeInt\bin\Debug\_11.ExchangeInt.exe.config
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\11. ExchangeInt\bin\Debug\_11.ExchangeInt.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\11. ExchangeInt\bin\Debug\_11.ExchangeInt.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\11. ExchangeInt\obj\Debug\_11.ExchangeInt.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\11. ExchangeInt\obj\Debug\_11.ExchangeInt.pdb

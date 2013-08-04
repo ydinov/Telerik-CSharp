@@ -1,0 +1,4 @@
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\14. ExchangeBitsPAndQ\bin\Debug\_14.ExchangeBitsPAndQ.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\14. ExchangeBitsPAndQ\bin\Debug\_14.ExchangeBitsPAndQ.pdb
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\14. ExchangeBitsPAndQ\obj\Debug\_14.ExchangeBitsPAndQ.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\14. ExchangeBitsPAndQ\obj\Debug\_14.ExchangeBitsPAndQ.pdb

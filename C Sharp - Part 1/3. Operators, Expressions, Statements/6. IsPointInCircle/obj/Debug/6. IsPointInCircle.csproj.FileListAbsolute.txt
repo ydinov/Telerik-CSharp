@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\6. IsPointInCircle\bin\Debug\_6.IsPointInCircle.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\6. IsPointInCircle\bin\Debug\_6.IsPointInCircle.pdb
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\6. IsPointInCircle\obj\Debug\6. IsPointInCircle.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\6. IsPointInCircle\obj\Debug\_6.IsPointInCircle.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\6. IsPointInCircle\obj\Debug\_6.IsPointInCircle.pdb

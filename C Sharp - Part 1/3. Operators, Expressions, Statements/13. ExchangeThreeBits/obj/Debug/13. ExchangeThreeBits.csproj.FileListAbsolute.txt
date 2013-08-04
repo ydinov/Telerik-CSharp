@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\13. ExchangeThreeBits\bin\Debug\_13.ExchangeThreeBits.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\13. ExchangeThreeBits\bin\Debug\_13.ExchangeThreeBits.pdb
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\13. ExchangeThreeBits\obj\Debug\13. ExchangeThreeBits.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\13. ExchangeThreeBits\obj\Debug\_13.ExchangeThreeBits.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\13. ExchangeThreeBits\obj\Debug\_13.ExchangeThreeBits.pdb

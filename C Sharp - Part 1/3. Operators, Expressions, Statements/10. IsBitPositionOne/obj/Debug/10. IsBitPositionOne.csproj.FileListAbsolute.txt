@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\10. IsBitPositionOne\bin\Debug\_10.IsBitPositionOne.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\10. IsBitPositionOne\bin\Debug\_10.IsBitPositionOne.pdb
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\10. IsBitPositionOne\obj\Debug\10. IsBitPositionOne.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\10. IsBitPositionOne\obj\Debug\_10.IsBitPositionOne.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\10. IsBitPositionOne\obj\Debug\_10.IsBitPositionOne.pdb

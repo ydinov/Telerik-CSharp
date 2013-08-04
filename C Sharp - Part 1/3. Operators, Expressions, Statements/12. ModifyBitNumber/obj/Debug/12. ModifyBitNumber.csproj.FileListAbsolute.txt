@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\12. ModifyBitNumber\bin\Debug\_12.ModifyBitNumber.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\12. ModifyBitNumber\bin\Debug\_12.ModifyBitNumber.pdb
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\12. ModifyBitNumber\obj\Debug\12. ModifyBitNumber.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\12. ModifyBitNumber\obj\Debug\_12.ModifyBitNumber.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\12. ModifyBitNumber\obj\Debug\_12.ModifyBitNumber.pdb

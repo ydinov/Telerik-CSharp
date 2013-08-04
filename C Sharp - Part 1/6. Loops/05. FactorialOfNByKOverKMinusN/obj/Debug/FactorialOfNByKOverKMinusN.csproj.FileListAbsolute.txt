@@ -1,0 +1,2 @@
+D:\My Documents\Telerik\6. Loops\6. Loops\05. FactorialOfNByKOverKMinusN\obj\Debug\_05.NByKOverN_KFactorial.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\05. FactorialOfNByKOverKMinusN\obj\Debug\_05.NByKOverN_KFactorial.pdb

@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\08. PrintOneToN\bin\Debug\_08.PrintOneToN.exe
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\08. PrintOneToN\bin\Debug\_08.PrintOneToN.pdb
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\08. PrintOneToN\obj\Debug\08. PrintOneToN.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\08. PrintOneToN\obj\Debug\_08.PrintOneToN.exe
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\08. PrintOneToN\obj\Debug\_08.PrintOneToN.pdb

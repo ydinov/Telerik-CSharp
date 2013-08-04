@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\7. PrimeNumbers\obj\Debug\7. PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\7. PrimeNumbers\bin\Debug\_7.PrimeNumbers.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\7. PrimeNumbers\bin\Debug\_7.PrimeNumbers.pdb
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\7. PrimeNumbers\obj\Debug\_7.PrimeNumbers.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\7. PrimeNumbers\obj\Debug\_7.PrimeNumbers.pdb

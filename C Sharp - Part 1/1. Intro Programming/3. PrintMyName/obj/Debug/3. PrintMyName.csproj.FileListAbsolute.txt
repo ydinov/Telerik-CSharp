@@ -1,0 +1,3 @@
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\3. PrintMyName\bin\Debug\_2.PrintMyName.exe.config
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\3. PrintMyName\obj\Debug\_2.PrintMyName.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\3. PrintMyName\obj\Debug\_2.PrintMyName.pdb

@@ -1,0 +1,2 @@
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.exe
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.pdb

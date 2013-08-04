@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\6. Loops\6. Loops\07. SumOfFibonacciNumbers\bin\Debug\_07.SumOfFibonacciNumbers.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\07. SumOfFibonacciNumbers\bin\Debug\_07.SumOfFibonacciNumbers.pdb
+D:\My Documents\Telerik\6. Loops\6. Loops\07. SumOfFibonacciNumbers\obj\Debug\07. SumOfFibonacciNumbers.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\6. Loops\6. Loops\07. SumOfFibonacciNumbers\obj\Debug\_07.SumOfFibonacciNumbers.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\07. SumOfFibonacciNumbers\obj\Debug\_07.SumOfFibonacciNumbers.pdb

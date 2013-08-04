@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\10. SumOfFractionalNumbers\bin\Debug\_10.SumOfFractionalNumbers.exe
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\10. SumOfFractionalNumbers\bin\Debug\_10.SumOfFractionalNumbers.pdb
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\10. SumOfFractionalNumbers\obj\Debug\10. SumOfFractionalNumbers.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\10. SumOfFractionalNumbers\obj\Debug\_10.SumOfFractionalNumbers.exe
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\10. SumOfFractionalNumbers\obj\Debug\_10.SumOfFractionalNumbers.pdb

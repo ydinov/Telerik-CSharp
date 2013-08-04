@@ -1,0 +1,6 @@
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\3. CompareFloatNumbers\bin\Debug\_3.CompareFloatNumbers.exe.config
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\3. CompareFloatNumbers\bin\Debug\_3.CompareFloatNumbers.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\3. CompareFloatNumbers\bin\Debug\_3.CompareFloatNumbers.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\3. CompareFloatNumbers\obj\Debug\_3.CompareFloatNumbers.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\3. CompareFloatNumbers\obj\Debug\_3.CompareFloatNumbers.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\3. CompareFloatNumbers\obj\Debug\3. CompareFloatNumbers.csprojResolveAssemblyReference.cache

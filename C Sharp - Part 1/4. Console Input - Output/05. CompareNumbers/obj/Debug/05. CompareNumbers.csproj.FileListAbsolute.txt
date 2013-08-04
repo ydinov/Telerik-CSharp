@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\05. CompareNumbers\bin\Debug\_05.CompareNumbers.exe.config
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\05. CompareNumbers\bin\Debug\_05.CompareNumbers.exe
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\05. CompareNumbers\bin\Debug\_05.CompareNumbers.pdb
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\05. CompareNumbers\obj\Debug\_05.CompareNumbers.exe
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\05. CompareNumbers\obj\Debug\_05.CompareNumbers.pdb

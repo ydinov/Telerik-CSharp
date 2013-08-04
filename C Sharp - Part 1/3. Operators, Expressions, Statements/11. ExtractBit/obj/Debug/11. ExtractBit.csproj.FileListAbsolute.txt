@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\11. ExtractBit\bin\Debug\_11.ExtractBit.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\11. ExtractBit\bin\Debug\_11.ExtractBit.pdb
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\11. ExtractBit\obj\Debug\_11.ExtractBit.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\11. ExtractBit\obj\Debug\_11.ExtractBit.pdb
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\11. ExtractBit\obj\Debug\11. ExtractBit.csprojResolveAssemblyReference.cache

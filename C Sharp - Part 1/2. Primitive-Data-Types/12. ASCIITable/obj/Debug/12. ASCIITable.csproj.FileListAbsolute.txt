@@ -1,0 +1,12 @@
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\12. ASCIITable\bin\Debug\_12.ASCIITable.exe.config
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\12. ASCIITable\bin\Debug\_12.ASCIITable.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\12. ASCIITable\bin\Debug\_12.ASCIITable.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\12. ASCIITable\obj\Debug\_12.ASCIITable.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\12. ASCIITable\obj\Debug\_12.ASCIITable.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\12. ASCIITable\obj\Debug\12. ASCIITable.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\C Sharp - Part 1\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\12. ASCIITable\bin\Debug\_12.ASCIITable.exe.config
+D:\My Documents\Telerik\C Sharp - Part 1\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\12. ASCIITable\obj\Debug\_12.ASCIITable.exe
+D:\My Documents\Telerik\C Sharp - Part 1\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\12. ASCIITable\obj\Debug\_12.ASCIITable.pdb
+D:\My Documents\Telerik\C Sharp - Part 1\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\12. ASCIITable\bin\Debug\_12.ASCIITable.exe
+D:\My Documents\Telerik\C Sharp - Part 1\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\12. ASCIITable\bin\Debug\_12.ASCIITable.pdb
+D:\My Documents\Telerik\C Sharp - Part 1\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\12. ASCIITable\obj\Debug\12. ASCIITable.csprojResolveAssemblyReference.cache

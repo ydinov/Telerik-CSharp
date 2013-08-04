@@ -1,0 +1,6 @@
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\8. PrintSquare\bin\Debug\PrintSquare.exe.config
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\8. PrintSquare\bin\Debug\PrintSquare.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\8. PrintSquare\bin\Debug\PrintSquare.pdb
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\8. PrintSquare\obj\Debug\08. PrintSquare.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\8. PrintSquare\obj\Debug\PrintSquare.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\8. PrintSquare\obj\Debug\PrintSquare.pdb

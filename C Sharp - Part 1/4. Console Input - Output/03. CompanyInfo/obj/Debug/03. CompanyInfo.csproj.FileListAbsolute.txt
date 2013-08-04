@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\03. CompanyInfo\bin\Debug\_03.CompanyInfo.exe
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\03. CompanyInfo\bin\Debug\_03.CompanyInfo.pdb
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\03. CompanyInfo\obj\Debug\03. CompanyInfo.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\03. CompanyInfo\obj\Debug\_03.CompanyInfo.exe
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\03. CompanyInfo\obj\Debug\_03.CompanyInfo.pdb

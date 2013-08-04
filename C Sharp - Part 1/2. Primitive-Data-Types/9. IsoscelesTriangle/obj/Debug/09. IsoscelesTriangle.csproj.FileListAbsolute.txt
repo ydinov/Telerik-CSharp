@@ -1,0 +1,3 @@
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\9. IsoscelesTriangle\bin\Debug\_9.IsoscelesTriangle.exe.config
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\9. IsoscelesTriangle\obj\Debug\_9.IsoscelesTriangle.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\9. IsoscelesTriangle\obj\Debug\_9.IsoscelesTriangle.pdb

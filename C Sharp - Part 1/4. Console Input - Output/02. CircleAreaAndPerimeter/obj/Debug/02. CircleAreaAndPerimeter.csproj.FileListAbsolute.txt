@@ -1,0 +1,4 @@
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\02. CircleAreaAndPerimeter\bin\Debug\_02.CircleAreaAndPerimeter.exe
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\02. CircleAreaAndPerimeter\bin\Debug\_02.CircleAreaAndPerimeter.pdb
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\02. CircleAreaAndPerimeter\obj\Debug\_02.CircleAreaAndPerimeter.exe
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\02. CircleAreaAndPerimeter\obj\Debug\_02.CircleAreaAndPerimeter.pdb

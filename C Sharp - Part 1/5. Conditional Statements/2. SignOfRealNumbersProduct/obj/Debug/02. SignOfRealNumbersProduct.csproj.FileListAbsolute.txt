@@ -1,0 +1,2 @@
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\2. SignOfRealNumbersProduct\obj\Debug\_2.SignOfRealNumbersProduct.exe
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\2. SignOfRealNumbersProduct\obj\Debug\_2.SignOfRealNumbersProduct.pdb

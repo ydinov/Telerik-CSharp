@@ -1,0 +1,6 @@
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\14. BancAccount\bin\Debug\_14.BancAccount.exe.config
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\14. BancAccount\obj\Debug\14. BancAccount.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\14. BancAccount\bin\Debug\_14.BancAccount.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\14. BancAccount\bin\Debug\_14.BancAccount.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\14. BancAccount\obj\Debug\_14.BancAccount.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\14. BancAccount\obj\Debug\_14.BancAccount.pdb

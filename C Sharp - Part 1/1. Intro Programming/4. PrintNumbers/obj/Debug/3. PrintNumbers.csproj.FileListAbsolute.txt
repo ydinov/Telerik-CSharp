@@ -1,0 +1,11 @@
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\3. PrintNumbers\bin\Debug\ConsoleApplication1.exe.config
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\3. PrintNumbers\obj\Debug\ConsoleApplication1.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\3. PrintNumbers\obj\Debug\ConsoleApplication1.pdb
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\4. PrintNumbers\bin\Debug\ConsoleApplication1.exe.config
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\4. PrintNumbers\obj\Debug\ConsoleApplication1.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\4. PrintNumbers\obj\Debug\ConsoleApplication1.pdb

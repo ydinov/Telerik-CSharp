@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\1. ExchangeValues\bin\Debug\_1.ExchangeValues.exe
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\1. ExchangeValues\bin\Debug\_1.ExchangeValues.pdb
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\1. ExchangeValues\obj\Debug\1. ExchangeValues.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\1. ExchangeValues\obj\Debug\_1.ExchangeValues.exe
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\1. ExchangeValues\obj\Debug\_1.ExchangeValues.pdb

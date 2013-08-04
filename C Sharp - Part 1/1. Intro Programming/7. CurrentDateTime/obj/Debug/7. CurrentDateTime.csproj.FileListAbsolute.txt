@@ -1,0 +1,3 @@
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\7. CurrentDateTime\bin\Debug\_5.CurrentDateTime.exe.config
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\7. CurrentDateTime\obj\Debug\_5.CurrentDateTime.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\7. CurrentDateTime\obj\Debug\_5.CurrentDateTime.pdb

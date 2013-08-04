@@ -1,0 +1,10 @@
+D:\My Documents\Telerik\6. Loops\6. Loops\05. NByKOverN-KFactorial\bin\Debug\_05.NByKOverN_KFactorial.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\05. NByKOverN-KFactorial\bin\Debug\_05.NByKOverN_KFactorial.pdb
+D:\My Documents\Telerik\6. Loops\6. Loops\05. NByKOverN-KFactorial\obj\Debug\05. FactorialOfNByKOverKMinusN.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\6. Loops\6. Loops\05. NByKOverN-KFactorial\obj\Debug\_05.NByKOverN_KFactorial.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\05. NByKOverN-KFactorial\obj\Debug\_05.NByKOverN_KFactorial.pdb
+D:\My Documents\Telerik\6. Loops\6. Loops\05. FactorialOfNByKOverKMinusN\obj\Debug\_05.NByKOverN_KFactorial.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\05. FactorialOfNByKOverKMinusN\obj\Debug\_05.NByKOverN_KFactorial.pdb
+D:\My Documents\Telerik\6. Loops\6. Loops\05. FactorialOfNByKOverKMinusN\bin\Debug\_05.NByKOverN_KFactorial.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\05. FactorialOfNByKOverKMinusN\bin\Debug\_05.NByKOverN_KFactorial.pdb
+D:\My Documents\Telerik\6. Loops\6. Loops\05. FactorialOfNByKOverKMinusN\obj\Debug\05. FactorialOfNByKOverKMinusN.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\7. PrimeNumbers\obj\Debug\_7.PrimeNumbers.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\7. PrimeNumbers\obj\Debug\_7.PrimeNumbers.pdb

@@ -1,0 +1,6 @@
+D:\My Documents\Telerik\6. Loops\6. Loops\11. DeckOfCards\bin\Debug\_11.DeckOfCards.exe.config
+D:\My Documents\Telerik\6. Loops\6. Loops\11. DeckOfCards\bin\Debug\_11.DeckOfCards.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\11. DeckOfCards\bin\Debug\_11.DeckOfCards.pdb
+D:\My Documents\Telerik\6. Loops\6. Loops\11. DeckOfCards\obj\Debug\11. DeckOfCards.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\6. Loops\6. Loops\11. DeckOfCards\obj\Debug\_11.DeckOfCards.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\11. DeckOfCards\obj\Debug\_11.DeckOfCards.pdb

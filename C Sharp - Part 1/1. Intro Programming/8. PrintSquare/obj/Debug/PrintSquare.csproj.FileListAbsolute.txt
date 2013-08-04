@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\PrintSquare\bin\Debug\PrintSquare.exe.config
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\PrintSquare\bin\Debug\PrintSquare.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\PrintSquare\bin\Debug\PrintSquare.pdb
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\PrintSquare\obj\Debug\PrintSquare.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\PrintSquare\obj\Debug\PrintSquare.pdb

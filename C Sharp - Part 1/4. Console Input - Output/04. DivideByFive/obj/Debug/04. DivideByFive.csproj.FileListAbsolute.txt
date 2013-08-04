@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\04. DivideByFive\bin\Debug\_04.DivideByFive.exe
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\04. DivideByFive\bin\Debug\_04.DivideByFive.pdb
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\04. DivideByFive\obj\Debug\04. DivideByFive.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\04. DivideByFive\obj\Debug\_04.DivideByFive.exe
+D:\My Documents\Telerik\4. Console Input - Output\4. Console Input - Output\04. DivideByFive\obj\Debug\_04.DivideByFive.pdb

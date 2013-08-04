@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\6. Loops\6. Loops\02. OneToNNotDivideToThreeAndSeven\bin\Debug\_02.OneToNNotDivideToThreeAndSeven.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\02. OneToNNotDivideToThreeAndSeven\bin\Debug\_02.OneToNNotDivideToThreeAndSeven.pdb
+D:\My Documents\Telerik\6. Loops\6. Loops\02. OneToNNotDivideToThreeAndSeven\obj\Debug\02. OneToNNotDivideToThreeAndSeven.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\6. Loops\6. Loops\02. OneToNNotDivideToThreeAndSeven\obj\Debug\_02.OneToNNotDivideToThreeAndSeven.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\02. OneToNNotDivideToThreeAndSeven\obj\Debug\_02.OneToNNotDivideToThreeAndSeven.pdb

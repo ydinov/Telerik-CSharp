@@ -1,0 +1,6 @@
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\6. IsFemale\bin\Debug\_6.IsFemale.exe.config
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\6. IsFemale\obj\Debug\_6.IsFemale.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\6. IsFemale\obj\Debug\_6.IsFemale.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\6. IsFemale\bin\Debug\_6.IsFemale.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\6. IsFemale\bin\Debug\_6.IsFemale.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\6. IsFemale\obj\Debug\06. IsFemale.csprojResolveAssemblyReference.cache

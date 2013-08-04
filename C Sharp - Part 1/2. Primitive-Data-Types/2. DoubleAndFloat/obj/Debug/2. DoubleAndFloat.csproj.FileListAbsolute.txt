@@ -1,0 +1,11 @@
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\DoubleAndFloat\bin\Debug\DoubleAndFloat.exe.config
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\DoubleAndFloat\bin\Debug\DoubleAndFloat.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\DoubleAndFloat\bin\Debug\DoubleAndFloat.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\DoubleAndFloat\obj\Debug\DoubleAndFloat.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\DoubleAndFloat\obj\Debug\DoubleAndFloat.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\2. DoubleAndFloat\bin\Debug\DoubleAndFloat.exe.config
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\2. DoubleAndFloat\obj\Debug\DoubleAndFloat.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\2. DoubleAndFloat\obj\Debug\DoubleAndFloat.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\2. DoubleAndFloat\bin\Debug\DoubleAndFloat.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\2. DoubleAndFloat\bin\Debug\DoubleAndFloat.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\2. DoubleAndFloat\obj\Debug\2. DoubleAndFloat.csprojResolveAssemblyReference.cache

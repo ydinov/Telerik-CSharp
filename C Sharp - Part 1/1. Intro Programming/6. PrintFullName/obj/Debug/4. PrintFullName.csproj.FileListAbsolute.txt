@@ -1,0 +1,8 @@
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\4. PrintFullName\bin\Debug\_4.PrintFullName.exe.config
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\4. PrintFullName\bin\Debug\_4.PrintFullName.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\4. PrintFullName\bin\Debug\_4.PrintFullName.pdb
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\4. PrintFullName\obj\Debug\_4.PrintFullName.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\4. PrintFullName\obj\Debug\_4.PrintFullName.pdb
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\6. PrintFullName\bin\Debug\_4.PrintFullName.exe.config
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\6. PrintFullName\obj\Debug\_4.PrintFullName.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\6. PrintFullName\obj\Debug\_4.PrintFullName.pdb

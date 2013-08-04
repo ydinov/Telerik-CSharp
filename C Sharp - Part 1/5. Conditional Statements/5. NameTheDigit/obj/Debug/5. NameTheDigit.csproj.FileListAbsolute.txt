@@ -1,0 +1,4 @@
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\5. NameTheDigit\bin\Debug\_5.NameTheDigit.exe
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\5. NameTheDigit\bin\Debug\_5.NameTheDigit.pdb
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\5. NameTheDigit\obj\Debug\_5.NameTheDigit.exe
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\5. NameTheDigit\obj\Debug\_5.NameTheDigit.pdb

@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\11. PronounceNumber\bin\Debug\_11.PronounceNumber.exe
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\11. PronounceNumber\bin\Debug\_11.PronounceNumber.pdb
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\11. PronounceNumber\obj\Debug\11. PronounceNumber.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\11. PronounceNumber\obj\Debug\_11.PronounceNumber.exe
+D:\My Documents\Telerik\5. Conditional Statements\5. Conditional Statements\11. PronounceNumber\obj\Debug\_11.PronounceNumber.pdb

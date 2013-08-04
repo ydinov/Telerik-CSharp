@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\6. Loops\6. Loops\06. SumOfFactorialOverPower\bin\Debug\_06.SumOfFactorialOverPower.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\06. SumOfFactorialOverPower\bin\Debug\_06.SumOfFactorialOverPower.pdb
+D:\My Documents\Telerik\6. Loops\6. Loops\06. SumOfFactorialOverPower\obj\Debug\06. SumOfFactorialOverPower.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\6. Loops\6. Loops\06. SumOfFactorialOverPower\obj\Debug\_06.SumOfFactorialOverPower.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\06. SumOfFactorialOverPower\obj\Debug\_06.SumOfFactorialOverPower.pdb

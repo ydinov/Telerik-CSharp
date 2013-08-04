@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\5. UnicodeChar\bin\Debug\_5.UnicodeChar.exe.config
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\5. UnicodeChar\bin\Debug\_5.UnicodeChar.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\5. UnicodeChar\bin\Debug\_5.UnicodeChar.pdb
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\5. UnicodeChar\obj\Debug\_5.UnicodeChar.exe
+D:\My Documents\Telerik\2. Primitivni tipove danni i promenlivi\Primitive-Data-Types\5. UnicodeChar\obj\Debug\_5.UnicodeChar.pdb

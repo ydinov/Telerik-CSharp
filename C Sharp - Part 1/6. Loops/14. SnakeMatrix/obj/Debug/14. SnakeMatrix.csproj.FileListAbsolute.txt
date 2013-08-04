@@ -1,0 +1,7 @@
+D:\My Documents\Telerik\6. Loops\6. Loops\14. SnakeMatrix\obj\Debug\14. SnakeMatrix.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\6. Loops\6. Loops\14. SnakeMatrix\bin\Debug\_14.SnakeMatrix.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\14. SnakeMatrix\bin\Debug\_14.SnakeMatrix.pdb
+D:\My Documents\Telerik\6. Loops\6. Loops\14. SnakeMatrix\obj\Debug\_14.SnakeMatrix.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\14. SnakeMatrix\obj\Debug\_14.SnakeMatrix.pdb
+D:\My Documents\Telerik\C Sharp - Part 1\6. Loops\6. Loops\14. SnakeMatrix\obj\Debug\_14.SnakeMatrix.exe
+D:\My Documents\Telerik\C Sharp - Part 1\6. Loops\6. Loops\14. SnakeMatrix\obj\Debug\_14.SnakeMatrix.pdb

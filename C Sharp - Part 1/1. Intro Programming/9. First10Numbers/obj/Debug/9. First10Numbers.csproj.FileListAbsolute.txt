@@ -1,0 +1,3 @@
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\9. First10Numbers\bin\Debug\_7.First10Numbers.exe.config
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\9. First10Numbers\obj\Debug\_7.First10Numbers.exe
+D:\My Documents\Telerik\1. Vavedenie v programiraneto\1. Intro Programming\9. First10Numbers\obj\Debug\_7.First10Numbers.pdb

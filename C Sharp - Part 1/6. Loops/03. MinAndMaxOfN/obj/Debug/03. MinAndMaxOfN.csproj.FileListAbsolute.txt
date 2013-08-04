@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\6. Loops\6. Loops\03. MinAndMaxOfN\obj\Debug\03. MinAndMaxOfN.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\6. Loops\6. Loops\03. MinAndMaxOfN\bin\Debug\_03.MinAndMaxOfN.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\03. MinAndMaxOfN\bin\Debug\_03.MinAndMaxOfN.pdb
+D:\My Documents\Telerik\6. Loops\6. Loops\03. MinAndMaxOfN\obj\Debug\_03.MinAndMaxOfN.exe
+D:\My Documents\Telerik\6. Loops\6. Loops\03. MinAndMaxOfN\obj\Debug\_03.MinAndMaxOfN.pdb

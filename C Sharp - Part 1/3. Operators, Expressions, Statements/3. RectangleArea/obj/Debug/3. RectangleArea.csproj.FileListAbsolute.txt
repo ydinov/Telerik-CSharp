@@ -1,0 +1,4 @@
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\3. RectangleArea\bin\Debug\_3.RectangleArea.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\3. RectangleArea\bin\Debug\_3.RectangleArea.pdb
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\3. RectangleArea\obj\Debug\_3.RectangleArea.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\3. RectangleArea\obj\Debug\_3.RectangleArea.pdb

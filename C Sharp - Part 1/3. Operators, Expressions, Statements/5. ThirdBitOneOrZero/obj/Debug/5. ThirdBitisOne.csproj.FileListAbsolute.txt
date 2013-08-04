@@ -1,0 +1,5 @@
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\5. ThirdBitOneOrZero\bin\Debug\_5.ThirdBitOneOrZero.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\5. ThirdBitOneOrZero\bin\Debug\_5.ThirdBitOneOrZero.pdb
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\5. ThirdBitOneOrZero\obj\Debug\5. ThirdBitisOne.csprojResolveAssemblyReference.cache
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\5. ThirdBitOneOrZero\obj\Debug\_5.ThirdBitOneOrZero.exe
+D:\My Documents\Telerik\3. Operators Expressions and Statements\3. Operators, Expressions, Statements\5. ThirdBitOneOrZero\obj\Debug\_5.ThirdBitOneOrZero.pdb
